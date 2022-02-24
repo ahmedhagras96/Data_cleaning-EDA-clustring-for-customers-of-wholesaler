@@ -15,5 +15,5 @@ In this part we work on 3 topics
 ### Data Clustring
 - In this part we clustring our data according to group of markets that can satisfy specific requirments for poromotion
 
-**To know how we do that enjoy with the Market clustring file**
-**Code is clean and there is full explaination for every step for why we do it and the result of it** 
+##### To know how we do that enjoy with the Market clustring file
+##### Code is clean and there is full explaination for every step for why we do it and the result of it
