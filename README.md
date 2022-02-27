@@ -1,4 +1,4 @@
-# Data_cleaning_EDA_clustring-for-Egyption-markets
+# Data_cleaning, EDA ,clustring for customers of wholesaler
 This repo is about make proper data cleaning , Exploratory data analysis (EDA) and make proper Clusters for the records . The data is about different real Egyptian markets with it's types
 
 ### Data cleaning process required for this data is
